@@ -33,11 +33,8 @@ static float chscale = 1.0;
 /*
  * word delimiter string
  *
- * More advanced example: L" `'\"()[]{}"
- */
-wchar_t *worddelimiters = L" ";
-
-/* selection timeouts (in milliseconds) */
+ * More advanced example: L" `'\"()[]{}" */
+wchar_t *worddelimiters = L" "; /* selection timeouts (in milliseconds) */
 static unsigned int doubleclicktimeout = 300;
 static unsigned int tripleclicktimeout = 600;
 
