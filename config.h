@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font =
-    "SauceCodePro Nerd Font Mono:pixelsize=32:antialias=true:autohint=true";
+    "SauceCodePro Nerd Font Mono:pixelsize=36:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
